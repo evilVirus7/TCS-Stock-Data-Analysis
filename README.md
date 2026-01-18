@@ -164,9 +164,6 @@ These limitations were intentional to keep the project focused and realistic.
 
 ---
 
-## 📊 Power BI Dashboard  
-
-![Power BI Dashboard](assets/powerbi_dashboard.png)
 
 An interactive dashboard was built using Power BI to visualize trends, volume behavior, and key insights.
 
