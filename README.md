@@ -1,8 +1,6 @@
 # 📊 TCS Stock Data Analysis Project  
 ### End-to-End Financial Data Analytics Case Study  
 
-![TCS Stock Banner](assets/tcs_banner.png)
-
 ---
 
 ## 🔍 Project Overview  
