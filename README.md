@@ -145,7 +145,7 @@ A **Linear Regression model** was implemented to estimate the closing price.
 ---
 
 ## 🚧 Limitations  
-l
+
 - No macroeconomic or sentiment data included  
 - Advanced time-series models not explored  
 - Not suitable for real-time trading decisions  
